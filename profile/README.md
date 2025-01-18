@@ -1,7 +1,3 @@
-Got it! I’ll craft a creative, engaging, and professional README for LeiaVerse that draws inspiration from the provided content while removing the coding-related parts. The focus will be on storytelling, innovation, and making it "cool as hell." Let me create something impactful for you! 
-
----
-
 # LeiaVerse  
 
 Welcome to LeiaVerse, where creativity meets intelligence and the future of immersive worlds unfolds. LeiaVerse isn’t just an organization; it’s an ecosystem built to redefine how we interact, play, and collaborate on the blockchain.  
