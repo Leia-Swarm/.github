@@ -87,7 +87,7 @@ So, whether you’re a dreamer, a builder, or an explorer, LeiaVerse is your inv
 - [Website](#)  
 
 ### 📨 Contact Us  
-Have a question or an idea? Reach out at **hello@leiaverse.ai**.  
+Have a question or an idea? Reach out at **support@tryleia.ai**.  
 
 ### 📜 License
 LeiaVerse is released under the [MIT License](LICENSE). This means you are free to use, modify, and distribute the project as long as you include the original copyright notice and disclaimer.
