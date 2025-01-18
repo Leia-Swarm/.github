@@ -82,9 +82,9 @@ So, whether you’re a dreamer, a builder, or an explorer, LeiaVerse is your inv
 ## 🤝 **Get Involved**  
 
 ### 🌟 Follow Us  
-- [Twitter](#)  
-- [Docs](#)  
-- [Website](#)  
+- [Twitter](https://x.com/TryLeia_AI)  
+- [Docs](https://docs.tryleia.ai)  
+- [Website](https://tryleia.ai)  
 
 ### 📨 Contact Us  
 Have a question or an idea? Reach out at **support@tryleia.ai**.  
